@@ -99,6 +99,7 @@ A full-stack productivity analytics platform designed to help users understand *
 | **Performance**    | Aggregated time analytics with 7/30/60/90-day trend analysis                            |
 | **Security**       | JWT authentication • Password hashing • Protected REST APIs • User-specific data access |
 | **Impact**         | Converts daily activity data into actionable productivity patterns and insights         |
+| **Repository** | [View Repository](https://github.com/AkankshaT0/timeaudit) |
 
 ### Engineering Overview
 
@@ -126,7 +127,7 @@ An AI-powered digital chit fund platform developed during the **Nakshatra Nation
 | **Scale** | Group-based savings, bidding, transaction and member workflows |
 | **Performance** | Automated financial workflow and trust-score processing |
 | **Security** | Transparent transaction records and blockchain-backed concepts |
-| **Impact** | Designed to make traditional chit funds smarter, safer, and more transparent ||
+| **Impact** | Designed to make traditional chit funds smarter, safer, and more transparent |
 
 ### Engineering Overview
 
