@@ -294,12 +294,14 @@ Qualified for Round 2 (Offline Finals) and was selected among the **Top 50 teams
 
 ## Contribution Snake
 
+## Contribution Snake
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkankshaT0/AkankshaT0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkankshaT0/AkankshaT0/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AkankshaT0/AkankshaT0/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkankshaT0/AkankshaT0/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkankshaT0/AkankshaT0/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AkankshaT0/AkankshaT0/gh-pages/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
