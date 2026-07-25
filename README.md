@@ -294,8 +294,6 @@ Qualified for Round 2 (Offline Finals) and was selected among the **Top 50 teams
 
 ## Contribution Snake
 
-## Contribution Snake
-
 <div align="center">
 
 <picture>
