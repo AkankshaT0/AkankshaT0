@@ -7,13 +7,13 @@
 <br/>
 
 ![B.E. Information Technology](https://img.shields.io/badge/B.E.-Information%20Technology-6D28D9?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-9.10-7C3AED?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-9.1-7C3AED?style=flat-square)
 ![Semester](https://img.shields.io/badge/Current-Semester%207-8B5CF6?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-India-4F46E5?style=flat-square)
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/AkankshaT0)
+[![Portfolio](https://akanksha-portfolio-nine.vercel.app/)](https://github.com/AkankshaT0)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkankshaT0)
@@ -62,7 +62,7 @@ My current work involves strengthening **Data Structures & Algorithms**, develop
 
 ### Cloud, DevOps & Tooling
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman,vscode,eclipse,linux&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,aws,vercel,render,postman,vscode,eclipse,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -86,58 +86,32 @@ My current work involves strengthening **Data Structures & Algorithms**, develop
 ## Featured Projects
 
 <details>
-<summary><b>CareerMantra — AI-Powered Career Guidance System</b></summary>
+<summary><b>TimeAudit — Personal Productivity & Time Analytics Platform</b></summary>
 
 <br/>
 
-An intelligent career recommendation platform designed to help students discover suitable career paths using **personality traits, interests, skills, and machine learning-based predictions**.
+A full-stack productivity analytics platform designed to help users understand **where their time goes, measure productivity, track goals, and identify behavioral patterns through data-driven insights**.
 
-| Engineering Metric | Details |
-|:---|:---|
-| **Stack** | Python • Machine Learning • HTML • CSS • JavaScript • Firebase |
-| **Scale** | Multi-user career assessment workflow |
-| **Performance** | Structured ML inference pipeline for career classification |
-| **Security** | Firebase Authentication and controlled user data access |
-| **Impact** | Personalized, data-driven career recommendations for students |
-| **Repository** | [View Repository](https://github.com/AkankshaT0) |
+| Engineering Metric | Details                                                                                 |
+| :----------------- | :-------------------------------------------------------------------------------------- |
+| **Stack**          | React.js • Node.js • Express.js • MongoDB • JWT • Bootstrap • Recharts                  |
+| **Scale**          | Multi-user time tracking, planning, goal management, and analytics workflow             |
+| **Performance**    | Aggregated time analytics with 7/30/60/90-day trend analysis                            |
+| **Security**       | JWT authentication • Password hashing • Protected REST APIs • User-specific data access |
+| **Impact**         | Converts daily activity data into actionable productivity patterns and insights         |
 
 ### Engineering Overview
 
-CareerMantra combines a structured personality assessment with a machine learning classification pipeline. User responses are transformed into model-compatible features and processed to identify career domains aligned with the user's characteristics and interests.
+TimeAudit combines **daily planning, actual time tracking, goal management, and productivity analytics** into a unified full-stack platform. Users can track activities across categories, compare planned versus actual time, monitor goal progress, and visualize how their 24 hours are distributed.
 
-The application integrates **Firebase Authentication** for user management and **Cloud Firestore** for application data. Its modular architecture separates assessment, prediction, and result-display responsibilities, enabling future expansion into resume analysis and AI-based career assistance.
+The analytics engine processes historical activity data to calculate a **0–100 productivity score, productivity streaks, week-over-week changes, peak focus periods, strongest and lowest productivity days, and 60-day activity heatmaps**. It also generates smart insights such as productivity increases, declining trends, and optimal focus periods.
+
+The application uses **React.js and Recharts** for interactive dashboards, **Node.js and Express.js** for REST APIs, **MongoDB Atlas with Mongoose** for persistent user data, and **JWT-based authentication** for protected multi-user access. The frontend is deployed on **Vercel**, with the backend hosted on **Render** and MongoDB Atlas providing the cloud database.
 
 </details>
 
 <br/>
 
-<details>
-<summary><b>SkyResolve AI — Satellite Image Super-Resolution Platform</b></summary>
-
-<br/>
-
-A full-stack AI platform for enhancing low-resolution satellite imagery using modern **deep learning-based super-resolution architectures**.
-
-| Engineering Metric | Details |
-|:---|:---|
-| **Stack** | React.js • Node.js • Express.js • MongoDB • Python • TensorFlow/PyTorch • OpenCV |
-| **Scale** | Multi-model image enhancement and project management workflow |
-| **Performance** | PSNR and SSIM-based image quality evaluation |
-| **Security** | Authentication and protected image/project workflows |
-| **Impact** | Improves usability and visual quality of low-resolution satellite imagery |
-| **Repository** | [View Repository](https://github.com/AkankshaT0) |
-
-### Engineering Overview
-
-SkyResolve AI explores and compares deep learning architectures including **SRCNN, SRGAN, EDSR, and ESRGAN** for satellite image super-resolution.
-
-The system combines a React-based frontend with Node.js and Express services for application management, MongoDB for persistent data, and a Python-based ML service for model inference.
-
-Image quality is quantitatively evaluated using **PSNR and SSIM**, enabling comparative analysis across multiple enhancement architectures.
-
-</details>
-
-<br/>
 
 <details>
 <summary><b>AI Chit Fund Platform — Blockchain-Enabled FinTech System</b></summary>
@@ -152,8 +126,7 @@ An AI-powered digital chit fund platform developed during the **Nakshatra Nation
 | **Scale** | Group-based savings, bidding, transaction and member workflows |
 | **Performance** | Automated financial workflow and trust-score processing |
 | **Security** | Transparent transaction records and blockchain-backed concepts |
-| **Impact** | Designed to make traditional chit funds smarter, safer, and more transparent |
-| **Repository** | [View Repository](https://github.com/AkankshaT0) |
+| **Impact** | Designed to make traditional chit funds smarter, safer, and more transparent ||
 
 ### Engineering Overview
 
@@ -165,29 +138,6 @@ An intelligent **trust scoring mechanism** evaluates member participation and re
 
 <br/>
 
-<details>
-<summary><b>Course Exchange Portal — Student Resource Marketplace</b></summary>
-
-<br/>
-
-A student-focused marketplace that enables learners across colleges and cities to **exchange, sell, and discover educational resources and courses**.
-
-| Engineering Metric | Details |
-|:---|:---|
-| **Stack** | React.js • JavaScript • Node.js • Database |
-| **Scale** | Multi-user course and educational resource marketplace |
-| **Performance** | Component-driven frontend and structured resource discovery |
-| **Security** | Authentication-oriented user workflows |
-| **Impact** | Encourages affordable access and reuse of educational resources |
-| **Repository** | [View Repository](https://github.com/AkankshaT0) |
-
-### Engineering Overview
-
-The platform is designed around a marketplace architecture where students can create accounts, publish educational resources, browse available materials, and connect with other students.
-
-The project emphasizes reusable UI components, structured data management, responsive interfaces, and scalable architecture for future **AI-powered recommendation and matching capabilities**.
-
-</details>
 
 <br/>
 
@@ -205,7 +155,7 @@ A software engineering project focused on monitoring web resources through a str
 | **Performance** | Health-check endpoints and automated backend testing |
 | **Security** | Structured server middleware and API configuration |
 | **Impact** | Provides infrastructure for detecting and managing website availability |
-| **Repository** | [View Repository](https://github.com/AkankshaT0) |
+| **Repository** | [View Repository](https://github.com/AkankshaT0/page-pulse) |
 
 ### Engineering Overview
 
