@@ -139,8 +139,6 @@ An intelligent **trust scoring mechanism** evaluates member participation and re
 <br/>
 
 
-<br/>
-
 <details>
 <summary><b>Page Pulse — Web Monitoring Platform</b></summary>
 
@@ -172,7 +170,7 @@ The project emphasizes reliable REST endpoints, deployment readiness, environmen
 ### Software Engineering & AI/ML Project Development
 
 **Academic & Independent Engineering Projects**  
-`2025 — Present`
+`2023 — Present`
 
 Building end-to-end software applications spanning full-stack development, machine learning, computer vision, cloud deployment, and product engineering.
 
@@ -201,7 +199,7 @@ Building end-to-end software applications spanning full-stack development, machi
 | **24-Hour Offline Hackathon** | Competed in the intensive offline final round organized by **A. P. Shah Institute of Technology** |
 | **AI + Blockchain Innovation** | Built an AI-powered chit fund platform combining intelligent trust scoring with transparent financial workflows |
 | **Academic Performance** | Maintaining a strong engineering academic record with **9.1 CGPA** |
-| **Semester Performance** | Achieved **8.3.5 SGPA** in Semester 3 , **9.52 SGPA** in Semester 4 and **9.43 SGPA** in Semester 5 |
+| **Semester Performance** | Achieved **8.35 SGPA** in Semester 3 , **9.52 SGPA** in Semester 4 and **9.43 SGPA** in Semester 5 |
 
 </div>
 
@@ -248,7 +246,7 @@ Qualified for Round 2 (Offline Finals) and was selected among the **Top 50 teams
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Akankshaa7/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-DSA-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Coding-4F46E5?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Programming-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
