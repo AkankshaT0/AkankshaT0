@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://akanksha-portfolio-nine.vercel.app/)](https://github.com/AkankshaT0)
+[![Portfolio](https://akanksha-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkankshaT0)
@@ -211,21 +211,34 @@ Building end-to-end software applications spanning full-stack development, machi
 
 <div align="center">
 
-### AWS
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Learning-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+### 💻 Alpha — DSA with Java
 
-### Oracle
+![Apna College](https://img.shields.io/badge/Apna%20College-DSA%20with%20Java-7C3AED?style=for-the-badge&logo=java&logoColor=white)
 
-![Oracle](https://img.shields.io/badge/Oracle-Technology%20Learning-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
+**Alpha – Data Structures & Algorithms with Java**  
+Completed structured training in Data Structures and Algorithms using Java, covering problem-solving, core DSA concepts, and coding practice.
 
-### NPTEL
+---
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified%20Learning-7C3AED?style=for-the-badge)
+### 🐍 Python Full Stack Developer Virtual Internship
 
-### Cisco
+![AICTE](https://img.shields.io/badge/AICTE-Python%20Full%20Stack-4F46E5?style=for-the-badge&logo=python&logoColor=white)
 
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20%26%20Technology-4F46E5?style=for-the-badge&logo=cisco&logoColor=white)
+**Python Full Stack Developer Virtual Internship — AICTE & EduSkills**  
+Completed a 10-week virtual internship focused on Python Full Stack Development under the AICTE Virtual Internship Program, supported by EduSkills Academy.
+
+---
+
+### 🏆 Nakshatra National-Level Hackathon
+
+![Hackathon](https://img.shields.io/badge/Nakshatra-Top%2050%20Finalist-6D28D9?style=for-the-badge&logo=trophy&logoColor=white)
+
+**NAKSHATRA National-Level 24-Hour Hackathon**  
+Qualified for Round 2 (Offline Finals) and was selected among the **Top 50 teams** at the national-level hackathon organized by A.P. Shah Institute of Technology, Thane.
+
+</div>
 
 </div>
 
