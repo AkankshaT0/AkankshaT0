@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-[![Portfolio](https://akanksha-portfolio-nine.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://akanksha-portfolio-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-tambe-40a4bb264/)
 [![Email](https://img.shields.io/badge/EMAIL-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![GitHub](https://img.shields.io/badge/GITHUB-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkankshaT0)
 
@@ -200,8 +200,8 @@ Building end-to-end software applications spanning full-stack development, machi
 | **Nakshatra National-Level Hackathon Finalist** | Selected among the **Top 50 teams** from approximately **400 teams / 1600+ participants** |
 | **24-Hour Offline Hackathon** | Competed in the intensive offline final round organized by **A. P. Shah Institute of Technology** |
 | **AI + Blockchain Innovation** | Built an AI-powered chit fund platform combining intelligent trust scoring with transparent financial workflows |
-| **Academic Performance** | Maintaining a strong engineering academic record with **9.10 CGPA** |
-| **Semester Performance** | Achieved **9.52 SGPA** in Semester 4 and **9.43 SGPA** in Semester 5 |
+| **Academic Performance** | Maintaining a strong engineering academic record with **9.1 CGPA** |
+| **Semester Performance** | Achieved **8.3.5 SGPA** in Semester 3 , **9.52 SGPA** in Semester 4 and **9.43 SGPA** in Semester 5 |
 
 </div>
 
