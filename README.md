@@ -93,30 +93,3 @@ My current work involves strengthening **Data Structures & Algorithms**, develop
 [![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Programming-312E81?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
 
 </div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkankshaT0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="Akanksha's GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaT0&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=AkankshaT0&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkankshaT0&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
-
-</div>
----
