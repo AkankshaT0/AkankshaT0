@@ -32,7 +32,7 @@
 
 I am **Akanksha Tambe**, an Information Technology engineering student focused on building reliable, scalable, and user-centric software products.
 
-My engineering interests span **Software Development, Full Stack Engineering, Artificial Intelligence, Machine Learning, and Data-driven applications**. I enjoy transforming real-world problems into structured technical solutions—from designing intuitive React interfaces and REST APIs to integrating databases and intelligent ML components.
+My engineering interests span **Software Development, Full Stack Development, Artificial Intelligence, Machine Learning, and Data-driven applications**. I enjoy transforming real-world problems into structured technical solutions—from designing intuitive React interfaces and REST APIs to integrating databases and intelligent ML components.
 
 I approach development with a **product engineering mindset**: understanding the problem first, designing maintainable systems, writing clean code, and building solutions that create measurable value.
 
