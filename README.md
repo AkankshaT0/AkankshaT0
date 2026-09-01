@@ -40,7 +40,7 @@ My current work involves strengthening **Data Structures & Algorithms**, develop
 
 ### Open To
 
-`Software Engineering Internships` • `Full Stack Development` • `AI/ML Engineering` • `Graduate SDE Roles` • `Open Source Collaboration`
+`Software Engineering Internships` • `Full Stack Develoment` • `AI/ML Engineering` • `Graduate SDE Roles` • `Open Source Collaboration`
 
 ---
 
